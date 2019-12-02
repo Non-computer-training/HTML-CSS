@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100px;
+    background-color: red;
+}
+
+.content {
+    height: 500px;
+    background-color: gray;
+}
+
+.footer {
+    height: 100px;
+    background-color: yellow;
+}
