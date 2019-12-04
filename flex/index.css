@@ -1,0 +1,22 @@
+
+.box {
+    width: 200px;
+    height: 200px;
+}
+
+.top {
+    background-color: red;
+}
+
+.centre {
+    float: left;
+    background-color: blue;
+}
+
+.bottom {
+    background-color: aqua;
+}
+
+.main{
+    display: flex;
+}
